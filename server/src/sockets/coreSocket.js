@@ -1,5 +1,3 @@
-const RoomService = require("../services/RoomService")
-
 var log4js = require("log4js");
 var logger = log4js.getLogger("coreSocket.js");
 logger.level = "debug"; // trace, debug, info, warn, error, fatal
